@@ -56,7 +56,7 @@ A professional protein structure visualization tool with multiple viewports, bui
 
 ## Development
 - Contributions are welcome! Please open an issue or submit a pull request. 
- - For any questions or suggestions, feel free to contact us at: metatea@yeah.net
+ - For any questions or suggestions, feel free to contact us at: contact@proteincode.tech
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
