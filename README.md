@@ -1,4 +1,4 @@
-# Protein Code Shell （Ver. 0.01）
+# Protein Code Shell （Ver. 0.0.1）
 
 ![Protein Visualization](https://img.shields.io/badge/visualization-protein-blue)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
